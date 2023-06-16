@@ -1,11 +1,11 @@
-About r-rearrr
-==============
+About r-rearrr-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rearrr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ludvigolsen/rearrr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rearrr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Arrange data by a set of methods. Use rearrangers to reorder data points and mutators to change their values. From basic utilities, to centering the greatest value, to swirling in 3-dimensional space, 'rearrr' enables creativity when plotting and experimenting with data.
 
